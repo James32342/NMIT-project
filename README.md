@@ -1,4 +1,4 @@
-# NeuroPath AI - Neural Cosmos
+# NeuroPath AI - 
 
 An adaptive cognitive profiling and intelligent assessment platform that provides personalized insights, living analytics, and AI-guided growth through beautiful neural visualizations.
 
